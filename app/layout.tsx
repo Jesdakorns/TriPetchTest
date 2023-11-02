@@ -13,7 +13,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Tri Petch Test",
   description: "tri petch test",
-  viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
+  viewport: 'width=device-width, initial-scale=1.0, viewport-fit=cover',
 };
 
 export default async function RootLayout({
