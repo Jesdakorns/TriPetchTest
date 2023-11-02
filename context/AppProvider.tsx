@@ -1,5 +1,4 @@
 "use client";
-import { NOTIFICATION_VARIANT } from '@/utils/constants';
 import React, { createContext, ReactNode, useContext, useEffect, useReducer } from 'react';
 
 export type StateContextDispatcher = React.Dispatch<Partial<IState>>;
