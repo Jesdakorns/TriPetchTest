@@ -11,8 +11,8 @@ import LogoMain from '@/src/assets/images/logo_main.png';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tri Petch Test",
-  description: "tri petch test",
+  title: "Sport UI",
+  description: "sport UI",
   viewport: 'width=device-width, initial-scale=1.0, viewport-fit=cover',
 };
 
